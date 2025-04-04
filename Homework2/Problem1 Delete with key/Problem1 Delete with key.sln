@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem1 Delete with key", "Problem1 Delete with key.vcxproj", "{C63297F2-4978-4618-9B1F-BC254E1A5F08}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem2 Swap each pair vales", "..\Problem2 Swap each pair vales\Problem2 Swap each pair vales.vcxproj", "{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem3 Reverse list nodes", "..\Problem3 Reverse list nodes\Problem3 Reverse list nodes.vcxproj", "{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem4 Delete even positions", "..\Problem4 Delete even positions\Problem4 Delete even positions.vcxproj", "{55F9D286-053F-4799-A6AD-479B2683B27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Debug|x64.ActiveCfg = Debug|x64
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Debug|x64.Build.0 = Debug|x64
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Debug|x86.ActiveCfg = Debug|Win32
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Debug|x86.Build.0 = Debug|Win32
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Release|x64.ActiveCfg = Release|x64
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Release|x64.Build.0 = Release|x64
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Release|x86.ActiveCfg = Release|Win32
+		{C63297F2-4978-4618-9B1F-BC254E1A5F08}.Release|x86.Build.0 = Release|Win32
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Debug|x64.ActiveCfg = Debug|x64
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Debug|x64.Build.0 = Debug|x64
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Debug|x86.ActiveCfg = Debug|Win32
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Debug|x86.Build.0 = Debug|Win32
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Release|x64.ActiveCfg = Release|x64
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Release|x64.Build.0 = Release|x64
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Release|x86.ActiveCfg = Release|Win32
+		{1521C2AF-B6BD-47D6-BFBC-0C207BFF5991}.Release|x86.Build.0 = Release|Win32
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Debug|x64.ActiveCfg = Debug|x64
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Debug|x64.Build.0 = Debug|x64
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Debug|x86.Build.0 = Debug|Win32
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Release|x64.ActiveCfg = Release|x64
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Release|x64.Build.0 = Release|x64
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Release|x86.ActiveCfg = Release|Win32
+		{78E59B35-41A2-47D2-8D1A-C0B9EE18FDC7}.Release|x86.Build.0 = Release|Win32
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Debug|x64.ActiveCfg = Debug|x64
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Debug|x64.Build.0 = Debug|x64
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Debug|x86.ActiveCfg = Debug|Win32
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Debug|x86.Build.0 = Debug|Win32
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Release|x64.ActiveCfg = Release|x64
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Release|x64.Build.0 = Release|x64
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Release|x86.ActiveCfg = Release|Win32
+		{55F9D286-053F-4799-A6AD-479B2683B27E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA634AC-4179-4BAD-BCBA-E96CCD7DC73A}
+	EndGlobalSection
+EndGlobal
